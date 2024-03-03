@@ -1,0 +1,1 @@
+# MedicNpc-FivemScript
